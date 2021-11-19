@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- /WEB-INF/decorators.xml -->
+<decorators defaultdir="/layout">
+	<decorator name="temp" page="layout_tmp.jsp">
+		<pattern>/</pattern>
+	</decorator>
+	<excludes>
+	</excludes>
+</decorators>
